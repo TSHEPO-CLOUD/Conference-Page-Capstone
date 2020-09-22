@@ -6,6 +6,7 @@ header {
   z-index: 9999;
   width: 100%;
   height: 50px;
+  color: white;
 }
 
 body {
@@ -26,10 +27,6 @@ body {
   width: 100%;
   height: 50px;
   background-image: url(image/ndebele.jpg);
-}
-
-header {
-  color:white;
 }
 
 .nav-link {
@@ -74,7 +71,7 @@ header {
 .rapped2 {
   padding: 10px 10px 15px 15px;
   border: 1px solid tomato;
-  background-color:brown;
+  background-color: brown;
 }
 
 td,

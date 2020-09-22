@@ -17,7 +17,7 @@ This is a solo project carried out by Tshepo David Molefe , as part of the PROJE
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/TSHEPO-CLOUD/Conference-Page-Capstone/tree/conference)
+[Live Demo Link]()
 
 
 ## Getting Started
