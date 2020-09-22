@@ -1,7 +1,11 @@
 header {
-  color: #fff;
-  background-color: #3e3e3e;
-  font-size: 13px;
+  background-color: brown;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 50px;
 }
 
 body {
@@ -13,8 +17,24 @@ body {
   display: flex;
 }
 
+.container1 {
+  position: fixed;
+  margin-top: 50px;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 50px;
+  background-image: url(image/ndebele.jpg);
+}
+
+header {
+  color:white;
+}
+
 .nav-link {
-  color: #aeaeae;
+  color: yellow;
+  font-size: larger;
 }
 
 .logo {
@@ -54,7 +74,7 @@ body {
 .rapped2 {
   padding: 10px 10px 15px 15px;
   border: 1px solid tomato;
-  background-color: tomato;
+  background-color:brown;
 }
 
 td,
@@ -65,7 +85,7 @@ th {
 
 #borderimg {
   border: 10px solid transparent;
-  border-image: url(img/stripes.jpg) 10%;
+  border-image: url(image/ndebele.jpg) 10%;
   border-image-width: 10px;
 }
 
