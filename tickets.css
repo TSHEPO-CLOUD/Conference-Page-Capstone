@@ -1,5 +1,6 @@
+
 header {
-  background-color: brown;
+  background-color: #272a31;
   position: fixed;
   top: 0;
   left: 0;
@@ -14,11 +15,39 @@ body {
   overflow-x: hidden;
 }
 
+.traditional-food {
+  margin: 30px auto 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 30px 50px;
+  width: 75%;
+  align-items: center;
+  border: 1px #d3d3d3 solid;
+}
+
+.traditional-food .title {
+  background-color: #d3d3d3;
+}
+
+.item {
+  margin: 0;
+  height: 100%;
+  border: 1px #d3d3d3 solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.traditional-food .item {
+  border: 0;
+}
+
 .flex {
   display: flex;
 }
 
-.container1 {
+.container2 {
   position: fixed;
   margin-top: 50px;
   top: 0;
@@ -26,16 +55,23 @@ body {
   z-index: 9999;
   width: 100%;
   height: 50px;
-  background-image: url(image/ndebele.jpg);
+  background-color: #d3d3d3;
+  -webkit-box-shadow: 10px 10px 34px  rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 34px  rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 34px  rgba(0, 0, 0, 0.75);
 }
 
 .nav-link {
-  color: yellow;
+  color: #ec5242;
   font-size: larger;
 }
 
 .logo {
-  height: 70px;
+  height: 50px;
+  margin-top: 4px;
+  margin-right: 90%;
+  margin-left: 30px;
+  position: relative;
 }
 
 .square-logo {
