@@ -133,6 +133,10 @@ th {
     font-size: 12px;
   }
 
+  .traditional-food {
+    width: 100%;
+  }
+
   .tickets-pad {
     width: 50%;
     padding: 5px 5px 5px 10px !important;
