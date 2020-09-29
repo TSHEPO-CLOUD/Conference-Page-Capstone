@@ -21,11 +21,15 @@ This is a solo project carried out by Tshepo David Molefe , as part of the PROJE
 [Live Demo Link](https://raw.githack.com/TSHEPO-CLOUD/Conference-Page-Capstone/conference/index.html)
 
 
+## Acknowledgement
+
+Very impressive and grate work by Behance, well structured web page. 
+
 ## Getting Started
 
 **To get your own copy of our project clone the repository to your local machine.**
 
-
+[repository](https://github.com/TSHEPO-CLOUD/Conference-Page-Capstone.git)
 ## Authors
 
 👤 **Tshepo Molefe**
