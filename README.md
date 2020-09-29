@@ -13,7 +13,8 @@ This is a solo project carried out by Tshepo David Molefe , as part of the PROJE
 - HTML5
 - CSS3
 - Google Icons
--  images
+- images
+- Fonts
 
 ## Live Demo
 
@@ -39,7 +40,7 @@ This is a solo project carried out by Tshepo David Molefe , as part of the PROJE
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/TSHEPO-CLOUD/Conference-Page-Capstone/issues).
 
 ## Show your support
 

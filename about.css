@@ -35,6 +35,10 @@ header {
 
 .nav-link {
   font-size: larger;
+  color: #272a27;
+}
+
+.nav-link:hover {
   color: #ec5242;
 }
 
@@ -66,24 +70,10 @@ header {
 }
 
 .bg-img {
-  margin-top: 190px;
+  margin-top: 60px;
   background-image: url(image/bg2\ img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-}
-
-.grad {
-  font-size: 50px;
-  background-image: url(img/heading-bg.jpg);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.grad2 {
-  font-size: 30px;
-  background-image: url(img/heading-bg.jpg);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 .g-style {

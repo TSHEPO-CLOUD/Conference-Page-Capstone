@@ -62,8 +62,12 @@ body {
 }
 
 .nav-link {
-  color: #ec5242;
   font-size: larger;
+  color: #272a27;
+}
+
+.nav-link:hover {
+  color: #ec5242;
 }
 
 .logo {

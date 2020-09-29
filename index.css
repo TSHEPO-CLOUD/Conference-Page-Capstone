@@ -45,11 +45,25 @@ header {
 }
 
 .def-sz {
-  font-size: 16px;
+  font-size: 25px;
+  color: #272a27;
+}
+
+.nav-link1 {
+  color: white;
+  font-size: 15px;
+}
+
+.nav-link1:hover {
+  color: #ec5242;
 }
 
 .nav-link {
   font-size: larger;
+  color: #272a27;
+}
+
+.nav-link:hover {
   color: #ec5242;
 }
 
@@ -165,6 +179,14 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
+.speaker1 {
+  color: #272a27;
+}
+
+.speaker2 {
+  color: #272a27;
+}
+
 .partner-logo {
   font-size: 5em;
 }
@@ -181,5 +203,23 @@ body {
 
   .partner-logo {
     font-size: 3em;
+  }
+}
+
+@media only screen
+
+  and (min-device-width: 375px)
+
+  and (max-device-width: 667px)
+
+  and (-webkit-min-device-pixel-ratio: 2) {
+  .container3 {
+    margin-top: 0;
+    padding-top: 10px;
+  }
+
+  .back {
+    margin-top: 0;
+    padding-top: 10px;
   }
 }
