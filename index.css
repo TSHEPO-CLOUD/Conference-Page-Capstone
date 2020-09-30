@@ -4,8 +4,8 @@
 }
 
 header {
-  color: #fff;
-  background-color: #3e3e3e;
+  color: #d3d3d3;
+  background-color: #272a27;
   font-size: 13px;
 }
 
@@ -36,7 +36,7 @@ header {
 .container3,
 .back,
 .africa {
-  padding-top: 100px;
+  padding-top: 200px;
   text-align: center;
 }
 
@@ -50,7 +50,7 @@ header {
 }
 
 .nav-link1 {
-  color: white;
+  color: #d3d3d3;
   font-size: 15px;
 }
 
@@ -94,7 +94,7 @@ body {
   background-image: url(image/bg-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  color: white;
+  color: #d3d3d3;
 }
 
 .summit {
@@ -133,7 +133,7 @@ body {
   background-color: transparent;
   padding: 5px;
   line-height: 20px;
-  border: 1px solid tomato;
+  border: 1px solid #ec5242;
 }
 
 .g-style:hover {
@@ -146,7 +146,7 @@ body {
 
 .rapped p {
   padding: 10px 10px 15px 15px;
-  border: 2px solid white;
+  border: 2px solid  #d3d3d3;
   width: 40%;
   align-items: center;
 }
@@ -157,8 +157,8 @@ body {
 
 .rapped2 {
   padding: 10px 10px 15px 15px;
-  border: 1px solid tomato;
-  background-color: tomato;
+  border: 1px solid#ec5242;
+  background-color: #ec5242;
 }
 
 .venue {
@@ -193,7 +193,7 @@ body {
 
 .more {
   font-size: 19px;
-  border: 1px solid grey;
+  border: 1px solid #d3d3d3;
 }
 
 @media screen and (max-width: 768px) {
@@ -215,7 +215,7 @@ body {
   and (-webkit-min-device-pixel-ratio: 2) {
   .container3 {
     margin-top: 0;
-    padding-top: 10px;
+    padding-top: 0;
   }
 
   .back {

@@ -30,7 +30,7 @@ header {
 }
 
 .container1 {
-  color: white;
+  color: #d3d3d3;
 }
 
 .nav-link {
@@ -65,7 +65,7 @@ header {
 }
 
 .display-logo {
-  border: 2px solid tomato;
+  border: 2px solid#ec5242;
   margin: 50px;
 }
 
@@ -86,7 +86,7 @@ header {
   width: 100%;
   padding: 10px 30px 15px 15px;
   border: 2px solid rgb(182, 181, 181);
-  background-color: brown;
+  background-color: #ec5242;
   text-align: center;
 }
 
@@ -105,7 +105,7 @@ header {
 
 footer {
   background-color: #272a31;
-  color: white;
+  color: #d3d3d3;
 }
 
 /* media query */

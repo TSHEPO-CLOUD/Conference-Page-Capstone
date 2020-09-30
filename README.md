@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# A CONFERENCE page
+# A conference page
 
-![CONFERENCE page](image/conferencepage.png)
+![conference page](image/conferencepage.png)
 
-This project is based on The Odin Project and Microverse solo project. It involves cloning a page that matches the look of a [CONFERENCE PAGE page](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+This project is based on The Odin Project and Microverse solo project. It involves cloning a page that matches the look of a [conference page ](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 This is a solo project carried out by Tshepo David Molefe , as part of the PROJECT: Conference page. This project is aimed at learning about linking to internal web pages.
 
