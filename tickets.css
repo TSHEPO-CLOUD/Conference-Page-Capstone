@@ -23,6 +23,7 @@ body {
   width: 75%;
   align-items: center;
   border: 1px #d3d3d3 solid;
+  padding-top: 28px;
 }
 
 .traditional-food .title {
